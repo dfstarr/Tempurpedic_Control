@@ -1,6 +1,6 @@
 import socket
 
-UDP_IP = "192.168.0.155"
+UDP_IP = "192.168.2.211"
 UDP_PORT = 50007
 MESSAGE = b'\x33\x05\x32\x0A\x94\x5C\x04\x00\xCC'
 
